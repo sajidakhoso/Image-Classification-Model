@@ -20,10 +20,10 @@ st.write("Add only  airplane,  automobile,  bird,  cat,  deer,  dog,  frog,  hor
 # Sidebar info
 st.sidebar.header("About the Project")
 st.sidebar.info("""
-**Created by:** Mirza Yasir Abdullah Baig  
-- [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
-- [Kaggle](https://www.kaggle.com/code/mirzayasirabdullah07)  
-- [GitHub](https://github.com/mirzayasirabdullahbaig07)  
+**Created by:** Sajida Khoso 
+- [LinkedIn](https://www.linkedin.com/in/sajida-khoso/)  
+- [Kaggle](https://www.kaggle.com/code/sajidakhoso)  
+- [GitHub](https://github.com/sajidakhoso)  
 This project classifies images into 10 CIFAR-10 categories.
 
 """)
@@ -47,3 +47,4 @@ if uploaded_file is not None:
 
     st.subheader("Prediction")
     st.write(f"The uploaded image is classified as: **{predicted_class}**")
+
