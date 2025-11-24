@@ -4,16 +4,6 @@ An **AI-powered web application** built with **Streamlit** that classifies image
 
 ---
 
-## 🚀 Live Demo  
-🔗 [Live App on Streamlit](https://imageclassificationmodel07.streamlit.app/)
-
----
-
-## 🚀 Video Demo
-[Video Demo ](https://github.com/user-attachments/assets/264ab9a8-82d8-4ec8-9136-b8b5f3614b7d)
-
----
-
 ## 📌 Features  
 - Upload an image and get **instant classification results**.  
 - Model predicts among **10 categories**:  
@@ -53,29 +43,8 @@ The model is trained on the **CIFAR-10 dataset**:
 
 ---
 
-## 📸 Screenshots  
-### 🏠 Home Page  
-
-
-### 📷 Image Upload & Prediction  
-
-
-### 📷 Image Upload & Prediction
-
-
-### 📷 Image Upload & Prediction
-
-
-### 📷 Image Upload & Prediction
-
-
-### 📷 Image Upload & Prediction
-
-
----
-
 ## 👨‍💻 Author  
-**Mirza Yasir Abdullah Baig**  
+**Sajida Khoso**  
 
 - 🌐 [Kaggle](https://www.kaggle.com/sajidakhos)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sajida-khoso/)  
