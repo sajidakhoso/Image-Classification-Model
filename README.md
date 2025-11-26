@@ -9,7 +9,7 @@ An **AI-powered web application** built with **Streamlit** that classifies image
 
 ## 🚀 Video Demo
 
-https://github.com/user-attachments/assets/7c82904a-b4d1-4444-aae5-ed887995955d
+https://github.com/user-attachments/assets/4ebe839a-d91a-4bd7-b36d-a35bcaf91fc5
 
 ---
 
@@ -51,6 +51,18 @@ The model is trained on the **CIFAR-10 dataset**:
 - **PIL (Pillow)** (Image Handling)  
 
 ---
+
+
+## 📸 Screenshots
+### 🏠 Home Page
+<img width="1904" height="825" alt="image" src="https://github.com/user-attachments/assets/fc4771c7-a1cf-4728-a4e8-26e14196aa1d" />
+
+### 🧑 Image Classification 1
+<img width="1902" height="810" alt="image" src="https://github.com/user-attachments/assets/7b82ca4b-9873-4fbf-a511-0349a2eae8c8" />
+
+### 🧑 Image Classification 2
+<img width="1908" height="818" alt="image" src="https://github.com/user-attachments/assets/e7a79a91-977f-4e33-ab7c-c0e10068669e" />
+
 
 ## 👨‍💻 Author  
 **Sajida Khoso**  
