@@ -4,6 +4,15 @@ An **AI-powered web application** built with **Streamlit** that classifies image
 
 ---
 
+## 🚀 Demo  
+🔗 [Live Demo on Streamlit](https://image-classification-model07.streamlit.app/) 
+
+## 🚀 Video Demo
+
+https://github.com/user-attachments/assets/7c82904a-b4d1-4444-aae5-ed887995955d
+
+---
+
 ## 📌 Features  
 - Upload an image and get **instant classification results**.  
 - Model predicts among **10 categories**:  
